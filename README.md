@@ -40,9 +40,5 @@
 
 ---
 
-<p align="center">
- 
-![giphy](https://github.com/user-attachments/assets/6779e376-6ebf-4902-9234-8cc8cff70b23)
-</p>
 
 
